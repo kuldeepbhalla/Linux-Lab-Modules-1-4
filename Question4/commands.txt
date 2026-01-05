@@ -1,1 +1,19 @@
+uptime
 
+ps -u kuldeep007
+
+top
+
+sleep 100 &
+
+renice +10 -p [PID] (Replace [PID] with the process ID from task 4)
+
+free -h
+
+df -h .
+
+echo $SHELL
+
+lscpu > system_report.txt
+
+sudo apt update && sudo apt install ncdu -y && ncdu

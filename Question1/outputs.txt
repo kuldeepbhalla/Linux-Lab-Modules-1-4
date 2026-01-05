@@ -1,1 +1,21 @@
+kuldeep007
 
+kuldeep007 adm cdrom sudo dip plugdev users
+
+/mnt/c/Users/Kuldeep007
+
+total 28780 followed by a long list of Windows directories (AppData, Desktop, Documents, etc.)
+
+32 user_info.txt
+
+MKDIR(1) User Commands MKDIR(1) and NAME mkdir - make directories
+
+admin access (with "admin" highlighted in red)
+
+6.6.87.2-microsoft-standard-WSL2
+
+4 packets transmitted, 4 received, 0% packet loss, time 3019ms
+
+rtt min/avg/max/mdev = 18.702/19.539/20.803/0.888 ms
+
+02:22:59 up 5 min, 1 user, load average: 0.00, 0.02, 0.00

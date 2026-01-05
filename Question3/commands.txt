@@ -1,1 +1,30 @@
+# 1. File Creation
+cd ~
+echo "This is sample data" > sample_data.txt
+
+# 2. Hard Link Creation
+ln sample_data.txt sample_hard.txt
+
+# 3. Symbolic Link Creation
+ln -s sample_data.txt sample_soft.txt
+
+# 4. Inode Verification
+ls -i sample_data.txt sample_hard.txt sample_soft.txt
+
+# 5. File Metadata Inspection
+stat sample_data.txt
+
+# 6. Disk Usage Check
+du -sh ~
+
+# 7. File Size Overview
+ls -lh ~
+
+# 8. Link Deletion Test
+rm sample_soft.txt
+cat sample_data.txt
+
+# 9. Disk Utility Demonstration
+du -sh *
+df -h
 

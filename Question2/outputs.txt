@@ -1,1 +1,19 @@
+~/documents directory was created successfully.
 
+plan.txt was created inside the documents folder.
+
+The text "hello world" was written into the file using nano.
+
+echo updated the file content to "Finish Linux lab assignment".
+
+-rw-r--r-- 1 kuldeep007 kuldeep007 28 Jan 5 02:31 plan.txt.
+
+plan_copy.txt appeared in the documents folder.
+
+Directory successfully renamed to project_documents.
+
+An archive directory was created inside the project folder.
+
+ls -R showed plan.txt in the main folder and plan_copy.txt inside the archive folder.
+
+/home/kuldeep007/project_documents/archive/plan_copy.txt.

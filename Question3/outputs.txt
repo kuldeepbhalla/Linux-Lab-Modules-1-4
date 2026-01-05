@@ -1,1 +1,17 @@
 
+
+Task 1 (File Creation): This is sample data
+
+Task 3 (Link Details): sample_soft.txt -> sample_data.txt
+
+Task 4 (Inode Numbers): 46440 sample_data.txt 46440 sample_hard.txt 46441 sample_soft.txt
+
+Task 6 (File Stats): Size: 20, Blocks: 8, Links: 2, Inode: 46440
+
+Task 7 (Disk Usage): 56K /home/kuldeep007
+
+Task 8 (File List): total 12K, -rw-r--r-- 2 kuldeep007 kuldeep007 20 Jan 5 02:32 sample_data.txt
+
+Task 9 (Data Verification): This is sample data
+
+Task 10 (System Storage): /dev/sdd 1007G 1.3G 955G 1% /

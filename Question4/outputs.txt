@@ -1,1 +1,11 @@
+02:34:18 up 17 min, 1 user
 
+[1] 737 (PID for sleep command)
+
+737 (process ID) old priority 0, new priority 10
+
+Mem: 7.4Gi total, 559Mi used, 6.8Gi free
+
+/bin/bash
+
+16.0 KiB [################] /project_documents

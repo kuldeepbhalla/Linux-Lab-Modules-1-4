@@ -1,4 +1,4 @@
-Here are the brief explanations for each task in Question 1, as required by your lab instructions:
+
 
 User Identity: I used these commands to confirm my current username and check which system groups my account belongs to for permission verification.
 
